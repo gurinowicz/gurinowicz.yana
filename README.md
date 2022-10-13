@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Yana
 <img src="" height="32"/></h1>
-<h3 align="center">I'm a beginner QA manual, Frontend student (actually an it recruiter xD)</h3>
+<h3 align="center">I'm a beginner QA manual, Frontend student (I am currently working at InStat (it recruiter) xD</h3>
+<h4 align="center">I'm also open to job opportunities as a QA, feel free to contact me</h4>
 
 ----------
 
@@ -9,7 +10,7 @@
 + Cover
 
 ----------
-### Languages and Tools
+### Technologies and tools
 JIRA HTML CSS SQL GIT TEST FLIGHT
 
 ----------
