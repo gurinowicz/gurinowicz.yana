@@ -1,5 +1,7 @@
-# YANA GURINOVICH
-I'm a beginner QA manual
+<h1 align="center">Hi there, I'm Yana
+<img src="" height="32"/></h1>
+<h3 align="center">I'm a beginner QA manual, Frontend student (actually an it recruiter xD)</h3>
+
 ----------
 
 ### MY CV
@@ -36,6 +38,10 @@ JIRA HTML CSS SQL GIT TEST FLIGHT
 + Spanish - Basic
 ----------
 
-### Follow me
-Facebook linkedin instagram telegram
+### Contact information:
+- Phone: +37 525 5282119
+- E-mail: tkachukya@icloud.com
+- <a href= "https://t.me/Yana_Gurinovich" target="_blank"> Telegram</a>
+- <a href="https://www.linkedin.com/in/yana-gurinovich-170a27101/" target="_blank">LinkedIn</a> 
+
 
