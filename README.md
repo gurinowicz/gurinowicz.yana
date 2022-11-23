@@ -27,7 +27,9 @@ JIRA HTML CSS SQL GIT TEST FLIGHT
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 + Stepik 
          - Тестирование ПО для начинающих (complete)
+         - Тестирование ПО: Postman для тестирования API (complete)
          - Интерактивный тренажер по SQL (in progress)
+         - Вселенная тестирования, или Как стать тестировщиком (in progress)
          - Введение в базы данных
 + GeekBrains Инженер по ручному тестированию (in progress)
 ----------
